@@ -15,7 +15,7 @@ This GitHub organization contains the core components of Poa:
 
 ### Smart Contracts
 
-- **[Poa Smart Contracts](https://github.com/your-org/poa-smart-contracts)**
+- **[Poa Smart Contracts](https://github.com/PerpetualOrganizationArchitect/contracts)**
   - **Description**: This repository contains the smart contracts that form the backbone of the Perpetual Organization Protocol. These contracts manage governance, roles, tasks, and treasury operations, ensuring that your organization runs smoothly on the blockchain.
   - **Technologies**: Solidity, Foundry
 

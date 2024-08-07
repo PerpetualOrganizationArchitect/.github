@@ -1,6 +1,6 @@
 # Poa: The Perpetual Organization Architect
 
-Welcome to the official GitHub organization for **Poa**, your no-code platform for creating and managing fully community-owned decentralized, self-sustaining organizations. This repository houses the smart contracts and front-end code that power the Poa platform and the underlying Perpetual Organization Protocol.
+Welcome to the official GitHub organization for **Poa**, and open source no-code platform for creating and managing fully community-owned decentralized, self-sustaining organizations. This repository houses the smart contracts and front-end code that power the Poa platform and the underlying Perpetual Organization Protocol.
 
 ## Introduction
 

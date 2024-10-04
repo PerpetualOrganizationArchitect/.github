@@ -22,8 +22,8 @@ This GitHub organization contains the core components of Poa:
 ### Front-End
 
 - **[Poa Front-End](https://github.com/PerpetualOrganizationArchitect/Poa-site)**
-  - **Description**: The front-end codebase for Poa, providing an intuitive interface for creating and managing your decentralized organization. This repo includes the UI/UX components, integrations with the smart contracts, and various utilities to enhance the user experience.
-  - **Technologies**: React, Next.js, JavaScript, Apollo Client, The Graph
+  - **Description**: The front-end codebase for Poa, providing an intuitive interface for creating and managing your decentralized organization. This repo includes the UI/UX components, integrations with the smart contracts, and various utilities to enhance the user experience. Also inlcudes our subgraph which won ETH DENVER 2024 best new subgraph.
+  - **Technologies**: React, Next.js, JavaScript, Apollo Client, The Graph, IPFS, hosted with fleek
   - **Live Demo**: [poa.community](https://poa.community)
 
 ## Contributing
